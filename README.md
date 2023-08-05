@@ -6,4 +6,4 @@ a simple 8086 micro processor assembly program that  add two single digits toget
 - finally run with your executable  ```yourfile.exe```
 
 ### time 
-**written back in 2018!**
+**written before hosted to git**
